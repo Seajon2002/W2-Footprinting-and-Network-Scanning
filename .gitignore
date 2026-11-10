@@ -1,0 +1,52 @@
+# ==============================
+# Operating System Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Python Cache Files
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+.venv/
+env/
+
+# ==============================
+# Sensitive Information
+# ==============================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+credentials.txt
+secrets.txt
+
+# ==============================
+# Temporary and Log Files
+# ==============================
+*.tmp
+*.log
+*.bak
+*.swp
+
+# ==============================
+# IDE and Editor Files
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Backup Files
+# ==============================
+*.old
+*.backup
