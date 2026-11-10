@@ -318,7 +318,6 @@ Cybersecurity Intern | Networkwalks | Batch B084
 
 🔗 **LinkedIn:** [Md Ektearul Haque Seajon](https://www.linkedin.com/in/ektearulhaque/)
 
-🐙 **GitHub:** [Seajon2002](https://github.com/Seajon2002)
 
 ---
 
