@@ -275,9 +275,6 @@ W2-Footprinting-and-Network-Scanning/
 ├── commands/
 │   └── reconnaissance-commands.md
 │
-├── findings/
-│   └── security-observations.md
-│
 └── .gitignore
 ```
 
